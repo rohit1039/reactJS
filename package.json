@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "npm run build && live-server dist",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "core-js": "^2.6.9",
+    "history": "^4.7.2",
+    "live-server": "^1.2.1",
+    "parcel-bundler": "^1.12.5",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
+    "react-toastify": "^4.5.2"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.14",
+    "parcel": "^2.0.1",
+    "postcss": "^8.4.5"
+  }
+}
