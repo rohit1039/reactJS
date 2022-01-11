@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo:
 
-![alt text](https://github.com/rohit1039/reactJS/blob/master/20220111_110505.gif "Logo Title Text 1")
+![alt text](https://github.com/rohit1039/reactJS/blob/master/20220111_110505.gif width="40" height="40")
 
 ## Available Scripts
 
