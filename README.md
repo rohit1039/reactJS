@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
